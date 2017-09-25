@@ -1,0 +1,2 @@
+# uno
+fybsc class details
